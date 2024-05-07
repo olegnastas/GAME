@@ -12,11 +12,11 @@ namespace Game_2
         {
             Random random = new Random();
 
-            float health1=random.Next(90,100);
+            float health1=random.Next(40,80);
             int damage1 = random.Next(5, 20);
-            int armor1 = random.Next(25, 65);
+            int armor1 = random.Next(45, 65);
 
-            float health2 = random.Next(80, 150);
+            float health2 = random.Next(50, 150);
             int damage2 = random.Next(20, 40);
             int armor2 = random.Next(65, 100);
 
