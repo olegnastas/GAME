@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Myproject C#\Game_2\Game_2\bin\Debug\Game_2.exe.config
+C:\Users\Dell\Desktop\Myproject C#\Game_2\Game_2\bin\Debug\Game_2.exe
+C:\Users\Dell\Desktop\Myproject C#\Game_2\Game_2\bin\Debug\Game_2.pdb
+C:\Users\Dell\Desktop\Myproject C#\Game_2\Game_2\obj\Debug\Game_2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Myproject C#\Game_2\Game_2\obj\Debug\Game_2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Myproject C#\Game_2\Game_2\obj\Debug\Game_2.exe
+C:\Users\Dell\Desktop\Myproject C#\Game_2\Game_2\obj\Debug\Game_2.pdb
